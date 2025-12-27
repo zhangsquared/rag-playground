@@ -41,3 +41,9 @@ uv add sentence_transformers chromadb google-genai python-dotenv
 - `chromadb`: vector database
 - `google-genai`: Gemini AI SDK
 - `python-dotenv`: env var set up
+
+To install dependency
+
+```bash
+uv sync
+```
