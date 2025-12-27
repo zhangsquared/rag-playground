@@ -26,4 +26,6 @@ Start Jupiter Notebook in uv
 
 ```bash
 uv run --with jupyter jupyter lab
-# rag-playground
+```
+
+
